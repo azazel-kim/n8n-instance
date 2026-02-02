@@ -269,3 +269,15 @@
 2026-02-02 21:54:51 +09:00: 
 2026-02-02 21:54:51 +09:00: Editor is now accessible via:
 2026-02-02 21:54:51 +09:00: http://localhost:5678
+2026-02-02 22:00:08 +09:00: Owner was set up successfully
+2026-02-02 22:02:57 +09:00: User survey updated successfully
+2026-02-02 22:09:07 +09:00: [license SDK] license successfully activated
+2026-02-02 22:09:32 +09:00: [license SDK] license activation failed: consumer already has a valid entitlement for this reservation
+2026-02-02 22:12:35 +09:00: [license SDK] license successfully renewed
+2026-02-02 22:13:00 +09:00: [license SDK] license activation failed: consumer already has a valid entitlement for this reservation
+2026-02-02 22:33:02 +09:00: [license SDK] license successfully renewed
+2026-02-02 22:33:35 +09:00: [license SDK] license activation failed: consumer already has a valid entitlement for this reservation
+2026-02-02 22:54:51 +09:00: Starting workflow history compaction
+2026-02-02 22:54:51 +09:00: Workflow history compaction complete
+2026-02-02 23:54:51 +09:00: Starting workflow history compaction
+2026-02-02 23:54:51 +09:00: Workflow history compaction complete
