@@ -1,0 +1,16 @@
+# HWP Document Service Dependencies
+# Python 3.8+ required
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# File handling
+python-multipart>=0.0.6
+
+# HWP Processing (Windows only, requires Hangul installed)
+pyhwpx>=0.40.1
+
+# For Python HWPX processing
+lxml>=4.9.0
+python-docx>=1.0.0
